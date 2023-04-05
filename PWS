@@ -1,0 +1,30 @@
+local cf1 = CFrame.new(-200.881424, 3.10595703, -29.3093262)
+local cf2 = CFrame.new(-199.093216, 3.10595703, -97.6254349)
+local cf3 = CFrame.new(-199.093216, 3.10595703, -165.962616)
+local cf4 = CFrame.new(-217.228043, 57.2740288, -240.132706)
+local cf5 = CFrame.new(-236.83136, 3.18589854, -1309.41516)
+local cf6 = CFrame.new(99.428215, 3.18593979, -1215.23914)
+local cf7 = CFrame.new(-341.154, 3.28287, -1293.06)
+local cf8 = CFrame.new(-271.318, 3.38005, -1585.69)
+local cf9 = CFrame.new(-185.824, 3.38032, -1609.43)
+
+while true do
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf1
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf2
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf3
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf4
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf5
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf6
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf7
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf8
+    wait(1)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cf9
+    wait(1)
+end
